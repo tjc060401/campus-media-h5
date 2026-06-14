@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.workbuddy/
+blobs/
+docx_images/
+*.zip
+*.docx
+*.py
+!build_final_h5.py
